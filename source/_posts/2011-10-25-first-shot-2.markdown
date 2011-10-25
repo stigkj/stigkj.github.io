@@ -1,0 +1,25 @@
+---
+layout: post
+title: "First shot, part deux"
+date: 2011-10-25 23:28
+comments: true
+categories: 
+---
+
+So, almost 7 months later I've finally managed to drag myself into a blog posting "position".
+Hopefully this wont be the pattern for how long it will be between posts. It's not that I don't
+have anything to say, it's more that I have too much to say and can never bear the thought of
+writing _all_ of it down. Note to self: just write some of it down, then!
+
+And now taking up the thread from the first post: [Jekyll](http://jekyllrb.com/) was the blogging
+engine I found which made me want to write a blog again. Then I was derailed, got mixed up with
+bad boys like [nanoc](http://nanoc.stoneship.org) and [nesta](http://nestacms.org) and ended up
+just being confused. What should I choose?
+
+[Octopress](http://octopress.org) came to my rescue! I had looked at it before, but that was pre-2.0
+days. Now it just shines with great design and a lot of great features. One of the greatest are the
+very nice options for sharing code snippets...my code has never looked better! And it is still
+Jekyll-based.
+
+Now it is just finding out the theme for the next post. What about saying something about how to
+get Chef to work properly under Windows, with package management and all?
