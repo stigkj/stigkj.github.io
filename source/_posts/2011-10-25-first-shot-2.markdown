@@ -13,7 +13,7 @@ writing _all_ of it down. Note to self: just write some of it down, then!
 
 And now taking up the thread from the first post: [Jekyll](http://jekyllrb.com/) was the blogging
 engine I found which made me want to write a blog again. Then I was derailed, got mixed up with
-bad boys like [nanoc](http://nanoc.stoneship.org) and [nesta](http://nestacms.org) and ended up
+bad boys like [nanoc](http://nanoc.stoneship.org) and [Nesta CMS](http://nestacms.com) and ended up
 just being confused. What should I choose?
 
 [Octopress](http://octopress.org) came to my rescue! I had looked at it before, but that was pre-2.0
