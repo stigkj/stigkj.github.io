@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Much ado about alot]]></title>
+  <link href="http://nisgits.net/atom.xml" rel="self"/>
+  <link href="http://nisgits.net/"/>
+  <updated>2013-04-06T01:00:17+02:00</updated>
+  <id>http://nisgits.net/</id>
+  <author>
+    <name><![CDATA[Stig Kleppe-Jørgensen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Create a chat-with-me widget]]></title>
+    <link href="http://nisgits.net/blog/2011/12/29/create-a-chat-with-me-widget/"/>
+    <updated>2011-12-29T17:13:00+01:00</updated>
+    <id>http://nisgits.net/blog/2011/12/29/create-a-chat-with-me-widget</id>
+    <content type="html"><![CDATA[<p>Have you ever wanted to create a chat-with-me widget on your blog or
+just on a regular web page, look no further! Here are the 3 easy steps
+for creating a GTalk widget that can easily be included on any web
+page.</p>
+
+<p>First, a pre-requisite: you must have a Google account. I guess most
+of us already have one&#8230;</p>
+
+<p>Then, the steps:</p>
+
+<ol>
+<li>Go to the <a href="http://www.google.com/talk/service/badge/New">Google Talk chatback badge page</a></li>
+<li>Copy the generated HTML code into your blog/web site</li>
+<li>&#8230;</li>
+</ol>
+
+
+<p>Actually, that was just 2 steps, not 3. My bad.</p>
+
+<p>There is one interesting thing about this chat widget: your visitor
+does not need a Google account to use it, but will just appear as a
+guest in the chat. Nice and easy for the visitor, but for you it
+might be problematic not knowing the visitor&#8217;s identity.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First shot, part deux]]></title>
+    <link href="http://nisgits.net/blog/2011/10/25/first-shot-2/"/>
+    <updated>2011-10-25T23:28:00+02:00</updated>
+    <id>http://nisgits.net/blog/2011/10/25/first-shot-2</id>
+    <content type="html"><![CDATA[<p>So, almost 7 months later I&#8217;ve finally managed to drag myself into a blog posting &#8220;position&#8221;.
+Hopefully this wont be the pattern for how long it will be between posts. It&#8217;s not that I don&#8217;t
+have anything to say, it&#8217;s more that I have too much to say and can never bear the thought of
+writing <em>all</em> of it down. Note to self: just write some of it down, then!</p>
+
+<p>And now taking up the thread from the first post: <a href="http://jekyllrb.com/">Jekyll</a> was the blogging
+engine I found which made me want to write a blog again. Then I was derailed, got mixed up with
+bad boys like <a href="http://nanoc.stoneship.org">nanoc</a> and <a href="http://nestacms.com">Nesta CMS</a> and ended up
+just being confused. What should I choose?</p>
+
+<p><a href="http://octopress.org">Octopress</a> came to my rescue! I had looked at it before, but that was pre-2.0
+days. Now it just shines with great design and a lot of great features. One of the greatest are the
+very nice options for sharing code snippets&#8230;my code has never looked better! And it is still
+Jekyll-based.</p>
+
+<p>Now it is just finding out the theme for the next post. What about saying something about how to
+get Chef to work properly under Windows, with package management and all?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First shot]]></title>
+    <link href="http://nisgits.net/blog/2011/03/29/first-shot/"/>
+    <updated>2011-03-29T23:28:00+02:00</updated>
+    <id>http://nisgits.net/blog/2011/03/29/first-shot</id>
+    <content type="html"><![CDATA[<p>Yes&#8230;finally I&#8217;ve found what I&#8217;ve been looking for! Or maybe not&#8230;that is, I was not actually
+looking for it. It just jumped down in front of me.</p>
+
+<p>What I am talking about? Well&#8230;you&#8217;re kinda looking at it. Yes, it is this blog, or more exact,
+what I use to create this blog&#8230;</p>
+
+<p>Sorry&#8230;it is late, so I need to continue this another day, I&#8217;m afraid.</p>
+]]></content>
+  </entry>
+  
+</feed>
